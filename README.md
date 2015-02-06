@@ -2,7 +2,7 @@ myapp
 =========
 
 
-Creating a projects
+Creating projects
 ------------
 `python setup.py`
 
